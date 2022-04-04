@@ -26,7 +26,7 @@ SRC      :=                            \
    $(wildcard src/gl/*.cpp)            \
    $(wildcard src/gui/*.cpp)           \
    $(wildcard src/input/*.cpp)         \
-   $(wildcard src/lodepng/*.cpp)       \
+   src/lodepng/lodepng.cpp             \
    $(wildcard src/scene/*.cpp)         \
    $(wildcard src/*.cpp)               \
 
