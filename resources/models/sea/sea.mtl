@@ -1,0 +1,10 @@
+# Blender MTL File: 'sea.blend'
+# Material Count: 1
+
+newmtl None
+Ns 50
+Ka 0.8 0.8 0.8
+Kd 0.025 0.025 0.3
+Ks 0.8 0.8 0.8
+d 0.5
+illum 2
