@@ -1,5 +1,5 @@
 [submodule "src/glm"]
-	path = src/glm
+	path = src/glm-repo
 	url = https://github.com/g-truc/glm
 [submodule "src/lodepng"]
 	path = src/lodepng
